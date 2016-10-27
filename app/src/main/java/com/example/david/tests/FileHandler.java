@@ -1,7 +1,7 @@
 package com.example.david.tests;
 
 /**
- * Created by navatejareddy on 10/27/16.
+ * Created by navatejareddy on 10/27/16. Filehandler
  */
 
 import android.content.Context;
@@ -11,9 +11,6 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
-/**
- * Created by navatejareddy on 10/08/16.
- */
 
 public class FileHandler {
 
