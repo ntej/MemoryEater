@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="bd93c1e0909e918cb262143076c0fdeece1f7a06">
+        <dex dex="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_946b04ececed85182e2c64cd709a80a87b77d3fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/navatejareddy/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_0ee83ff0c31bf40124fd9d5b14948afaf8149258/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="831f3ba2d01aa827ba250ae1b8d74cbd1804f4fc">
+        <dex dex="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cc7691a5e9435ec4058ca10daf906c2bc622f53/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.0_d266d8f9055b07c87d6ce72768e4026533014ffc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.2.0_10bcbc0d54004f2dde6f553a59df76dcdabfd636/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_6f0a503ba273f7dcf58e03cf6cd03897289b28e0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.0_beaba3397463ab2d7f1e2853e0ed0c46f6d20d9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.0_f7c250ea3b8c63e3ce0e5f5bcca5fbb3f7659783/classes.dex" />
+    </item>
+
+</items>

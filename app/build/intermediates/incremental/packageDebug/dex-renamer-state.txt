@@ -1,0 +1,7 @@
+#Thu Oct 27 01:51:42 PDT 2016
+base.0=/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cc7691a5e9435ec4058ca10daf906c2bc622f53
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_946b04ececed85182e2c64cd709a80a87b77d3fd/classes.dex
+base.1=/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_946b04ececed85182e2c64cd709a80a87b77d3fd
+file.0=/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_9cc7691a5e9435ec4058ca10daf906c2bc622f53/classes.dex

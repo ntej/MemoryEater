@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="40971078453200"
+    token="-3819235277337126137"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="508" />
+    <task
+        name="instant-run-dex"
+        duration="962" />
+    <task
+        name="instant-run-transform"
+        duration="41" />
+    <task
+        name="verifier"
+        duration="10" />
+
+    <artifact
+        location="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="40816889380178"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="40971078453200"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/home/navatejareddy/Dropbox/AndroidStudioProjects/MemoryEater/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>
